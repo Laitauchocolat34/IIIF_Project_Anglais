@@ -1,0 +1,43 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "<span style=\"color: #374151; font-family: S&ouml;hne, ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Roboto, Ubuntu, Cantarell, 'Noto Sans', sans-serif, 'Helvetica Neue', Arial, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'; font-size: 16px; white-space-collapse: preserve;\">This image of a corpse is quite ambivalent. The deceased has one foot in the grave, illustrating the ambiguous situation of the excommunicated who is absolved. Through the presence of a part of the corpse in a tomb, the image emphasizes the distancing and loss of the connection with God. However, being absolved, the deceased is shown emerging from the tomb with signs of life, alluding to a positive divine action. Nevertheless, it is not a classic return to life; it is extraordinary. He returns to life in a very temporary way, unlike the classic resurrections performed by God.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><span style=\"color: #374151; font-family: S&ouml;hne, ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Roboto, Ubuntu, Cantarell, 'Noto Sans', sans-serif, 'Helvetica Neue', Arial, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'; font-size: 16px; white-space-collapse: preserve;\">This image of a corpse is quite ambivalent. The deceased has one foot in the grave, illustrating the ambiguous situation of the excommunicated who is absolved. Through the presence of a part of the corpse in a tomb, the image emphasizes the distancing and loss of the connection with God. However, being absolved, the deceased is shown emerging from the tomb with signs of life, alluding to a positive divine action. Nevertheless, it is not a classic return to life; it is extraordinary. He returns to life in a very temporary way, unlike the classic resurrections performed by God.</span></p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "The marginalized corpse, yet showing signs of life. This representation serves to underline the mediocrity of the human condition while indicating the possibility of elevation",
+      "@type" : "oa:Tag",
+      "chars" : "The marginalized corpse, yet showing signs of life. This representation serves to underline the mediocrity of the human condition while indicating the possibility of elevation"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/146727591",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2023-12-14T15:20:22",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1702567222870",
+    "dcterms:modified" : "2023-12-14T17:17:09",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://Laitauchocolat34.github.io/IIIF_Project_Anglais/manifests/Leo_Trotin_Manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=3721,1033,507,414"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M3720.94197,1032.72574h253.51445v0h253.51445v207.05179v207.05179h-253.51445h-253.51445v-207.05179z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,1,0,1],&quot;editable&quot;:true}\" id=\"rectangle_bd6e5629-af9d-4ab9-b166-949df846ad58\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff00ff\" stroke-width=\"67.02259\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://3412c62f-27ad-4bd8-80f6-e452d848b908"
+    } ]
+  } ],
+  "@id" : "https://Laitauchocolat34.github.io/IIIF_Project_Anglais/annotations/Image2.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
