@@ -1,0 +1,43 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "<span style=\"color: #374151; font-family: S&ouml;hne, ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Roboto, Ubuntu, Cantarell, 'Noto Sans', sans-serif, 'Helvetica Neue', Arial, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'; font-size: 16px; white-space-collapse: preserve;\">The image contributes to sanctifying the dead body of Mary by focusing on her corporeal and mortal aspect. By depicting her in a very large size, at the center, without a shroud and without any signs of death, the image portrays the complete purity of the deceased. It is through this purity that she escapes the common fate of humanity, which is the decay of the flesh. The image offers believers a glimpse of what awaits the faithful at the end of times. Emphasizing all these aspects, the image also contributes to the belief in the Assumption rather than the Dormition, a belief that gained prominence towards the end of the medieval period.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><span style=\"color: #374151; font-family: S&ouml;hne, ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Roboto, Ubuntu, Cantarell, 'Noto Sans', sans-serif, 'Helvetica Neue', Arial, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'; font-size: 16px; white-space-collapse: preserve;\">The image contributes to sanctifying the dead body of Mary by focusing on her corporeal and mortal aspect. By depicting her in a very large size, at the center, without a shroud and without any signs of death, the image portrays the complete purity of the deceased. It is through this purity that she escapes the common fate of humanity, which is the decay of the flesh. The image offers believers a glimpse of what awaits the faithful at the end of times. Emphasizing all these aspects, the image also contributes to the belief in the Assumption rather than the Dormition, a belief that gained prominence towards the end of the medieval period.</span></p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "The central corpse. It allows for the depiction of a restoration of the Edenic order, something only possible through the incarnation",
+      "@type" : "oa:Tag",
+      "chars" : "The central corpse. It allows for the depiction of a restoration of the Edenic order, something only possible through the incarnation"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/146727591",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2023-12-14T14:40:45",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1702564845759",
+    "dcterms:modified" : "2023-12-14T17:16:06",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://Laitauchocolat34.github.io/IIIF_Project_Anglais/manifests/Leo_Trotin_Manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=3373,832,1263,644"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M3373.48209,831.75893h631.27607v0h631.27607v322.19838v322.19838h-631.27607h-631.27607v-322.19838z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,1,0,1],&quot;editable&quot;:true}\" id=\"rectangle_0cf0a7d0-29d7-4135-9fd5-4ed87ece1120\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff00ff\" stroke-width=\"67.02259\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://9bbb94da-6ad9-4455-a06e-9cf52e39750b"
+    } ]
+  } ],
+  "@id" : "https://Laitauchocolat34.github.io/IIIF_Project_Anglais/annotations/Image4.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
