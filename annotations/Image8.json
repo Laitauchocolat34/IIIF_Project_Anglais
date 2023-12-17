@@ -1,0 +1,175 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "It is the corpse of a suicide victim. It is shown hanging on a gallows to emphasize the disgraceful nature of the act and to convey that the person is considered a criminal. Here, the visibility of the corpse accentuates the ignominious nature of the punishment, unlike other representations of corpses. The fact that it is placed at the edge of the image emphasizes the exclusion of the wicked dead.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>It is the corpse of a suicide victim. It is shown hanging on a gallows to emphasize the disgraceful nature of the act and to convey that the person is considered a criminal. Here, the visibility of the corpse accentuates the ignominious nature of the punishment, unlike other representations of corpses. The fact that it is placed at the edge of the image emphasizes the exclusion of the wicked dead.</p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "The marginalized corpse. It emphasizes the theme of the Fall, damnation, the loss of resemblance to God, and eternal death",
+      "@type" : "oa:Tag",
+      "chars" : "The marginalized corpse. It emphasizes the theme of the Fall, damnation, the loss of resemblance to God, and eternal death"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/146727591",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2023-12-14T17:25:52",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1702574752850",
+    "dcterms:modified" : "2023-12-15T15:18:21",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://Laitauchocolat34.github.io/IIIF_Project_Anglais/manifests/Leo_Trotin_Manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=2431,769,50,74"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2455.73698,843.35775c0,-16.5344 8.26719,-33.06876 24.80159,-49.60316c0,-13.69753 -11.10405,-24.80159 -24.80159,-24.80159c-13.69753,0 -24.80159,11.10405 -24.80159,24.80159c16.5344,16.5344 24.80159,33.06876 24.80159,49.60316z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;fixedSize&quot;:true,&quot;annotation&quot;:null,&quot;editable&quot;:true}\" id=\"pin_ca0b5ad0-1761-4752-814e-80b651b964a7\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"39.68254\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://ccddcc32-0fe5-489f-bc48-7bd702fc642b"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Area evoking the corpse",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Area evoking the corpse</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/146727591",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-12-14T17:36:35",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1702575395658",
+    "dcterms:modified" : "2023-12-14T17:36:35",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://Laitauchocolat34.github.io/IIIF_Project_Anglais/manifests/Leo_Trotin_Manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=2285,628,367,692"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2652.16026,1320.05045h-183.73891v0h-183.73891v-345.85673v-345.85673h183.73891h183.73891v345.85673z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_0e9c89f9-74c7-4dfc-90fb-9d364063c93b\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ffff00\" stroke-width=\"3\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://ccddcc32-0fe5-489f-bc48-7bd702fc642b"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : ""
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/146727591",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-12-15T15:26:41",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1702654001564",
+    "dcterms:modified" : "2023-12-15T15:26:41",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://Laitauchocolat34.github.io/IIIF_Project_Anglais/manifests/Leo_Trotin_Manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=919,1712,1735,884"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2243.82557,1713.18061l401.22452,8.10555l8.10555,794.34349h-1337.41507l-8.10555,72.94991l-389.0662,8.10555l8.10555,-786.23795l1313.09843,-16.21109v-81.05546l6.07916,-0.918l-6.07916,4.05277z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;annotation&quot;:null}\" id=\"rough_path_7aabc622-fdba-48e5-ad3a-d93c9aad38f9\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#008000\" stroke-width=\"3\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://ccddcc32-0fe5-489f-bc48-7bd702fc642b"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : ""
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/146727591",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-12-15T15:27:48",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1702654068555",
+    "dcterms:modified" : "2023-12-15T15:27:48",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://Laitauchocolat34.github.io/IIIF_Project_Anglais/manifests/Leo_Trotin_Manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=888,2518,1770,388"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M897.73043,2604.07994l-5.0423,287.41098l1754.71969,15.12689l10.0846,-388.25694l-1331.16666,15.12689l-10.0846,60.50758l-428.59533,15.12689l9.8832,-5.0423z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;annotation&quot;:null}\" id=\"rough_path_aee564e5-03f2-45fe-af8f-3030b2d8014d\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ffff00\" stroke-width=\"3\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://ccddcc32-0fe5-489f-bc48-7bd702fc642b"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Area not evoking the corpse",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Area not evoking the corpse</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/146727591",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-12-14T17:35:32",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1702575332549",
+    "dcterms:modified" : "2023-12-15T17:33:20",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://Laitauchocolat34.github.io/IIIF_Project_Anglais/manifests/Leo_Trotin_Manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=916,628,1367,703"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2282.68244,1331.361h-683.288v0h-683.288v-351.512v-351.512h683.288h683.288v351.512z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.50196,0],&quot;editable&quot;:true}\" id=\"rectangle_03c8c87b-a084-48b0-8b92-7941966baa92\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#008000\" stroke-width=\"68.57143\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://ccddcc32-0fe5-489f-bc48-7bd702fc642b"
+    } ]
+  } ],
+  "@id" : "https://Laitauchocolat34.github.io/IIIF_Project_Anglais/annotations/Image8.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
