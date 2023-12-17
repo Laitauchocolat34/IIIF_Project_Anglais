@@ -1,0 +1,43 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "<span style=\"color: #374151; font-family: S&ouml;hne, ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Roboto, Ubuntu, Cantarell, 'Noto Sans', sans-serif, 'Helvetica Neue', Arial, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'; font-size: 16px; white-space-collapse: preserve;\">The image conveys that by being a devout Christian and following the divine law received on Mount Sinai, humans can return to the sacred land, reestablish the lost connection with God after the Fall, and bury their sins symbolized by the corpse. Indeed, we can observe that the upper part of the frame is open upwards, as if to signify the disappearance of the separation between humans and God. Furthermore, the corpse is elevated on a large mound of earth, bringing it closer to the heavens and thus to God.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><span style=\"color: #374151; font-family: S&ouml;hne, ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Roboto, Ubuntu, Cantarell, 'Noto Sans', sans-serif, 'Helvetica Neue', Arial, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'; font-size: 16px; white-space-collapse: preserve;\">The image conveys that by being a devout Christian and following the divine law received on Mount Sinai, humans can return to the sacred land, reestablish the lost connection with God after the Fall, and bury their sins symbolized by the corpse. Indeed, we can observe that the upper part of the frame is open upwards, as if to signify the disappearance of the separation between humans and God. Furthermore, the corpse is elevated on a large mound of earth, bringing it closer to the heavens and thus to God.</span></p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "The central corpse. It allows for the depiction of a restoration of the Edenic order, something only possible through the incarnation",
+      "@type" : "oa:Tag",
+      "chars" : "The central corpse. It allows for the depiction of a restoration of the Edenic order, something only possible through the incarnation"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/146727591",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2023-12-14T16:45:32",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1702572332576",
+    "dcterms:modified" : "2023-12-14T17:15:46",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://Laitauchocolat34.github.io/IIIF_Project_Anglais/manifests/Leo_Trotin_Manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=537,384,972,935"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1509.04647,1319.57263h-485.84786v0h-485.84786v-467.66682v-467.66682h485.84786h485.84786v467.66682z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,1,0,1],&quot;editable&quot;:true}\" id=\"rectangle_bd34d333-45d3-4bb7-969d-a6bcf423ee57\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff00ff\" stroke-width=\"67.02259\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://6a591204-afb9-4c9e-a7f6-6a4a0af4ebd6"
+    } ]
+  } ],
+  "@id" : "https://Laitauchocolat34.github.io/IIIF_Project_Anglais/annotations/Image6.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
