@@ -1,6 +1,6 @@
 {
   "@type" : "sc:Layer",
-  "otherContent" : [ ],
+  "otherContent" : [ "https://Laitauchocolat34.github.io/IIIF_Project_Anglais/annotations/Image1.json" ],
   "@id" : "https://Laitauchocolat34.github.io/IIIF_Project_Anglais/annotations/collection.json",
   "label" : "All annotations loaded in Laitauchocolat34/IIIF_Project_Anglais project",
   "@context" : "http://iiif.io/api/presentation/2/context.json"
