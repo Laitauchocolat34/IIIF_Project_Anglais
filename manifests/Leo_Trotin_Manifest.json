@@ -3,6 +3,11 @@
   "@id" : "https://Laitauchocolat34.github.io/IIIF_Project_Anglais/manifests/Leo_Trotin_Manifest.json",
   "@type" : "sc:Manifest",
   "label" : "IIIF_Project_Leo",
+  "service" : {
+    "profile" : "http://iiif.io/api/search/0/search",
+    "@id" : "https://dev.gdmrdigital.com/search-api/1245635613/146727591/d6f37e09d6736bfb2f8c265b39d1fc14/search",
+    "@context" : "http://iiif.io/api/search/0/context.json"
+  },
   "metadata" : [ ],
   "description" : [ {
     "@value" : "Ce manifeste a pour objectif de créer une typologie des images de cadavre dans un recueil d'exempla intitulé le 'Ci nous dit' (ms 26 et 27) Bibliothèque de Chantilly",
@@ -43,11 +48,16 @@
         },
         "on" : "http://8636c1aa-b112-4d6c-83c4-b5c82a762ea0"
       } ],
+      "otherContent" : [ {
+        "@id" : "https://laitauchocolat34.github.io/IIIF_Project_Anglais/annotations/Image1.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "Annotation_image1"
+      } ],
       "related" : ""
     }, {
       "@id" : "http://3412c62f-27ad-4bd8-80f6-e452d848b908",
       "@type" : "sc:Canvas",
-      "label" : "Image4",
+      "label" : "Image2",
       "height" : 4080,
       "width" : 5436,
       "images" : [ {
@@ -69,11 +79,16 @@
         },
         "on" : "http://3412c62f-27ad-4bd8-80f6-e452d848b908"
       } ],
+      "otherContent" : [ {
+        "@id" : "https://laitauchocolat34.github.io/IIIF_Project_Anglais/annotations/Image2.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "Annotation_image2"
+      } ],
       "related" : ""
     }, {
       "@id" : "http://dcbfad19-f3e5-422a-afc0-461f73891a47",
       "@type" : "sc:Canvas",
-      "label" : "Image5",
+      "label" : "Image3",
       "height" : 4080,
       "width" : 5436,
       "images" : [ {
@@ -95,11 +110,16 @@
         },
         "on" : "http://dcbfad19-f3e5-422a-afc0-461f73891a47"
       } ],
+      "otherContent" : [ {
+        "@id" : "https://laitauchocolat34.github.io/IIIF_Project_Anglais/annotations/Image3.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "Annotations_image3"
+      } ],
       "related" : ""
     }, {
       "@id" : "http://9bbb94da-6ad9-4455-a06e-9cf52e39750b",
       "@type" : "sc:Canvas",
-      "label" : "Image6",
+      "label" : "Image4",
       "height" : 4080,
       "width" : 5436,
       "images" : [ {
@@ -121,11 +141,16 @@
         },
         "on" : "http://9bbb94da-6ad9-4455-a06e-9cf52e39750b"
       } ],
+      "otherContent" : [ {
+        "@id" : "https://laitauchocolat34.github.io/IIIF_Project_Anglais/annotations/Image4.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "Annotations_image4"
+      } ],
       "related" : ""
     }, {
       "@id" : "http://30d33a1a-f086-493e-80f8-06617ca7d0a9",
       "@type" : "sc:Canvas",
-      "label" : "Image7",
+      "label" : "Image5",
       "height" : 4080,
       "width" : 5436,
       "images" : [ {
@@ -147,11 +172,16 @@
         },
         "on" : "http://30d33a1a-f086-493e-80f8-06617ca7d0a9"
       } ],
+      "otherContent" : [ {
+        "@id" : "https://laitauchocolat34.github.io/IIIF_Project_Anglais/annotations/Image5.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "Annotations_image5"
+      } ],
       "related" : ""
     }, {
       "@id" : "http://6a591204-afb9-4c9e-a7f6-6a4a0af4ebd6",
       "@type" : "sc:Canvas",
-      "label" : "Image8",
+      "label" : "Image6",
       "height" : 4080,
       "width" : 5436,
       "images" : [ {
@@ -173,11 +203,16 @@
         },
         "on" : "http://6a591204-afb9-4c9e-a7f6-6a4a0af4ebd6"
       } ],
+      "otherContent" : [ {
+        "@id" : "https://laitauchocolat34.github.io/IIIF_Project_Anglais/annotations/Image6.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "Annotations_image6"
+      } ],
       "related" : ""
     }, {
       "@id" : "http://1f27c995-ea10-499d-9a88-743d71e25fd7",
       "@type" : "sc:Canvas",
-      "label" : "Image3",
+      "label" : "Image7",
       "height" : 4080,
       "width" : 5436,
       "images" : [ {
@@ -199,11 +234,16 @@
         },
         "on" : "http://1f27c995-ea10-499d-9a88-743d71e25fd7"
       } ],
+      "otherContent" : [ {
+        "@id" : "https://laitauchocolat34.github.io/IIIF_Project_Anglais/annotations/Image7.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "Annotation_image7"
+      } ],
       "related" : ""
     }, {
       "@id" : "http://ccddcc32-0fe5-489f-bc48-7bd702fc642b",
       "@type" : "sc:Canvas",
-      "label" : "Image2",
+      "label" : "Image8",
       "height" : 4080,
       "width" : 5436,
       "images" : [ {
@@ -224,6 +264,11 @@
           "width" : 5436
         },
         "on" : "http://ccddcc32-0fe5-489f-bc48-7bd702fc642b"
+      } ],
+      "otherContent" : [ {
+        "@id" : "https://laitauchocolat34.github.io/IIIF_Project_Anglais/annotations/Image8.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "Annotations_image8"
       } ],
       "related" : ""
     } ]
