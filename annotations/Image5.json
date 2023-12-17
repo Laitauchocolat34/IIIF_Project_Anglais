@@ -1,0 +1,43 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "<p style=\"border: 0px solid #d9d9e3; box-sizing: border-box; --tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-scroll-snap-strictness: proximity; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgba(69,89,164,.5); --tw-ring-offset-shadow: 0 0 transparent; --tw-ring-shadow: 0 0 transparent; --tw-shadow: 0 0 transparent; --tw-shadow-colored: 0 0 transparent; margin: 0px 0px 1.25em; color: #374151; font-family: S&ouml;hne, ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Roboto, Ubuntu, Cantarell, 'Noto Sans', sans-serif, 'Helvetica Neue', Arial, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'; font-size: 16px; white-space-collapse: preserve;\">This image conveys that it is only by acting as a good Christian that it is possible to restore the Edenic situation where man is superior to animals.\n<p style=\"border: 0px solid #d9d9e3; box-sizing: border-box; --tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-scroll-snap-strictness: proximity; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgba(69,89,164,.5); --tw-ring-offset-shadow: 0 0 transparent; --tw-ring-shadow: 0 0 transparent; --tw-shadow: 0 0 transparent; --tw-shadow-colored: 0 0 transparent; margin: 1.25em 0px 0px; color: #374151; font-family: S&ouml;hne, ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Roboto, Ubuntu, Cantarell, 'Noto Sans', sans-serif, 'Helvetica Neue', Arial, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'; font-size: 16px; white-space-collapse: preserve;\">What is intriguing about this image is the contrast it creates with the later-presented image of the donkey carrying the excommunicated individual to the gallows. In this case, the oxen are harnessed, indicating their domestication, unlike the donkey. Furthermore, the corpse is not in direct contact with the animal in the first scenario, whereas in the second, it is placed on it in an unstable manner. All of this effectively demonstrates that it is through virtue that humans restore divine order and stability. Indeed, symbolically for medieval society, the use of animals serves as a practical means to keep animals at a distance from humans and to restore the Edenic order.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p style=\"border: 0px solid #d9d9e3; box-sizing: border-box; --tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-scroll-snap-strictness: proximity; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgba(69,89,164,.5); --tw-ring-offset-shadow: 0 0 transparent; --tw-ring-shadow: 0 0 transparent; --tw-shadow: 0 0 transparent; --tw-shadow-colored: 0 0 transparent; margin: 0px 0px 1.25em; color: #374151; font-family: S&ouml;hne, ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Roboto, Ubuntu, Cantarell, 'Noto Sans', sans-serif, 'Helvetica Neue', Arial, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'; font-size: 16px; white-space-collapse: preserve;\">This image conveys that it is only by acting as a good Christian that it is possible to restore the Edenic situation where man is superior to animals.</p>\n<p style=\"border: 0px solid #d9d9e3; box-sizing: border-box; --tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-scroll-snap-strictness: proximity; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgba(69,89,164,.5); --tw-ring-offset-shadow: 0 0 transparent; --tw-ring-shadow: 0 0 transparent; --tw-shadow: 0 0 transparent; --tw-shadow-colored: 0 0 transparent; margin: 1.25em 0px 0px; color: #374151; font-family: S&ouml;hne, ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Roboto, Ubuntu, Cantarell, 'Noto Sans', sans-serif, 'Helvetica Neue', Arial, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'; font-size: 16px; white-space-collapse: preserve;\">What is intriguing about this image is the contrast it creates with the later-presented image of the donkey carrying the excommunicated individual to the gallows. In this case, the oxen are harnessed, indicating their domestication, unlike the donkey. Furthermore, the corpse is not in direct contact with the animal in the first scenario, whereas in the second, it is placed on it in an unstable manner. All of this effectively demonstrates that it is through virtue that humans restore divine order and stability. Indeed, symbolically for medieval society, the use of animals serves as a practical means to keep animals at a distance from humans and to restore the Edenic order.</p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "The central corpse. It allows for the depiction of a restoration of the Edenic order, something only possible through the incarnation",
+      "@type" : "oa:Tag",
+      "chars" : "The central corpse. It allows for the depiction of a restoration of the Edenic order, something only possible through the incarnation"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/146727591",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2023-12-14T14:36:23",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1702564583275",
+    "dcterms:modified" : "2023-12-14T17:15:56",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://Laitauchocolat34.github.io/IIIF_Project_Anglais/manifests/Leo_Trotin_Manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=646,495,938,928"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M645.78554,494.69919h468.85877v0h468.85877v464.0105v464.0105h-468.85877h-468.85877v-464.0105z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,1,0,1],&quot;editable&quot;:true}\" id=\"rectangle_997a9a2a-d071-432a-bd75-98efbace177f\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff00ff\" stroke-width=\"67.02259\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://30d33a1a-f086-493e-80f8-06617ca7d0a9"
+    } ]
+  } ],
+  "@id" : "https://Laitauchocolat34.github.io/IIIF_Project_Anglais/annotations/Image5.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
